@@ -1,0 +1,8 @@
+Hello {Fullname}<br>
+Your registration is completed <br>
+Use below Details to active your account <br>
+Temporary password-{tempPassword}<br>
+urlfor activate Account{url}<br>
+
+Thank you <br>
+Admin Team.<br>
